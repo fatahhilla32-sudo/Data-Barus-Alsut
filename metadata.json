@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Barang Rusak (BARUS) – Informa Alam Sutera (J347)",
+  "description": "Dashboard interaktif analisis barang rusak (BARUS) Informa Alam Sutera (J347) dengan monitoring KPI, ADF tracking, kontribusi departemen, dan data detail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
